@@ -5,7 +5,17 @@ def main():
     Code Your Program here
     ########################################
     """
-    result = True
+    
+    if (5 < email < 30):
+        result = True
+    else:
+        result = False
+        
+        
+
+    
+    
+    
 
     ########################################
     # Do not delete the return statement
